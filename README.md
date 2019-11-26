@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sanjaybs054/AzureGithub/_apis/build/status/manjujenkins.ContosoAir?branchName=master)](https://dev.azure.com/sanjaybs054/AzureGithub/_build/latest?definitionId=5&branchName=master)
 
 
 # Microsoft.Github CI Demo
